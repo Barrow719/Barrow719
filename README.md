@@ -26,9 +26,9 @@ I’m passionate about using data to make informed decisions. I focus on data an
 
 Feel free to reach out to me!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📧 Email: barrowy01@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/yaya-barrow/
 
 ---
 
-> *“Data is the new oil.”* – Clive Humby
+> *“Data is the new oil.”*
